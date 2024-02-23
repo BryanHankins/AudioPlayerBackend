@@ -1,0 +1,16 @@
+[package]
+name = "audio_player"
+version = "0.1.0"
+edition = "2018"
+authors = ["Your Name <email@example.com>"]
+description = "Audio player project compiled to WebAssembly for web use."
+
+# Specify this crate as a library
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+wasm-bindgen = "0.2"
+
+# Add any other dependencies here. For example, if you're using `web-sys` for web API access:
+# web-sys = { version = "0.3", features = ['AudioContext', 'HtmlElement'] }

@@ -1,0 +1,10 @@
+C:\Users\Brian Hankins\Audio_Player\target\wasm32-unknown-unknown\release\deps\libslice_deque-50ee55e367c1bdb5.rmeta: C:\Users\Brian\ Hankins\.cargo\registry\src\index.crates.io-6f17d22bba15001f\slice-deque-0.3.0\src\lib.rs C:\Users\Brian\ Hankins\.cargo\registry\src\index.crates.io-6f17d22bba15001f\slice-deque-0.3.0\src\macros.rs C:\Users\Brian\ Hankins\.cargo\registry\src\index.crates.io-6f17d22bba15001f\slice-deque-0.3.0\src\mirrored\mod.rs C:\Users\Brian\ Hankins\.cargo\registry\src\index.crates.io-6f17d22bba15001f\slice-deque-0.3.0\src\mirrored\buffer.rs
+
+C:\Users\Brian Hankins\Audio_Player\target\wasm32-unknown-unknown\release\deps\libslice_deque-50ee55e367c1bdb5.rlib: C:\Users\Brian\ Hankins\.cargo\registry\src\index.crates.io-6f17d22bba15001f\slice-deque-0.3.0\src\lib.rs C:\Users\Brian\ Hankins\.cargo\registry\src\index.crates.io-6f17d22bba15001f\slice-deque-0.3.0\src\macros.rs C:\Users\Brian\ Hankins\.cargo\registry\src\index.crates.io-6f17d22bba15001f\slice-deque-0.3.0\src\mirrored\mod.rs C:\Users\Brian\ Hankins\.cargo\registry\src\index.crates.io-6f17d22bba15001f\slice-deque-0.3.0\src\mirrored\buffer.rs
+
+C:\Users\Brian Hankins\Audio_Player\target\wasm32-unknown-unknown\release\deps\slice_deque-50ee55e367c1bdb5.d: C:\Users\Brian\ Hankins\.cargo\registry\src\index.crates.io-6f17d22bba15001f\slice-deque-0.3.0\src\lib.rs C:\Users\Brian\ Hankins\.cargo\registry\src\index.crates.io-6f17d22bba15001f\slice-deque-0.3.0\src\macros.rs C:\Users\Brian\ Hankins\.cargo\registry\src\index.crates.io-6f17d22bba15001f\slice-deque-0.3.0\src\mirrored\mod.rs C:\Users\Brian\ Hankins\.cargo\registry\src\index.crates.io-6f17d22bba15001f\slice-deque-0.3.0\src\mirrored\buffer.rs
+
+C:\Users\Brian\ Hankins\.cargo\registry\src\index.crates.io-6f17d22bba15001f\slice-deque-0.3.0\src\lib.rs:
+C:\Users\Brian\ Hankins\.cargo\registry\src\index.crates.io-6f17d22bba15001f\slice-deque-0.3.0\src\macros.rs:
+C:\Users\Brian\ Hankins\.cargo\registry\src\index.crates.io-6f17d22bba15001f\slice-deque-0.3.0\src\mirrored\mod.rs:
+C:\Users\Brian\ Hankins\.cargo\registry\src\index.crates.io-6f17d22bba15001f\slice-deque-0.3.0\src\mirrored\buffer.rs:

@@ -1,0 +1,29 @@
+Project Audio Player.
+
+Technologies I want to use 
+
+Rust and Rodio a rust library for audio ,
+
+HTML , CSS and typescipt for the UX experiance to be able to acutally use it. 
+React for the Front End Framework
+Web Framework Actix Web
+WebSocket , Warp
+
+
+
+Stuff I need to make for the project
+The Project
+ A file to proccess the audio , Something to determin which file is being uploaded and if its supported
+   Processing it would be the main thing in the project 
+ A way to if I differnt files need differnt ways of proccess the audio , I need to be able to switch to the code that is for taht specific file type.
+ A Place to store the files , 
+ A way to select the file.
+
+Front end
+A Front End frame to be able to acutally use the program
+a button with being able to select the next or privious file to be selected ,
+
+Features I would need to think more about.
+A limitation like 30 seconds max, 
+Full Screen?
+Be able to play youtube videos?????
